@@ -1,4 +1,5 @@
 /* Blink LED example */
+/* for MSP430 launchpad board */
 
 #include <msp430g2231.h>
 
